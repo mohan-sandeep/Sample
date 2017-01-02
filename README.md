@@ -7,3 +7,4 @@ master
 
 developing
 feature1
+master new changes
