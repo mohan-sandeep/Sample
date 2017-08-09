@@ -6,3 +6,9 @@ public static void main(String[] args){
 
 
 }
+public static div(double a, double b){
+if(b == 0)
+return "invalid args";
+return a/b;
+}
+}
