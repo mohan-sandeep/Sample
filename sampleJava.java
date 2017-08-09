@@ -8,3 +8,9 @@ return a+b;
 }
 }
 }
+public static div(double a, double b){
+if(b == 0)
+return "invalid args";
+return a/b;
+}
+}
