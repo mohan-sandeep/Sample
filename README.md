@@ -5,6 +5,3 @@ Linus
 
 Hello sir from mohan sandeep
 
-master
-
-feature1
